@@ -7,7 +7,7 @@
  db/user.txt 用户数据  
  db/op_log.txt  操作日志  
  db/credit_card.txt 信用卡数据  
- db/shopping_car/  用户购物车
+ db/shopping_car/  用户购物车  
 功能：  
 1.用户注册，提交信用卡卡号，初始额度10000  
 2.用户登录，进入商城，购买商品，扣除额度  
