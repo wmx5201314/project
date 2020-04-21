@@ -1,4 +1,4 @@
-# project
+# 购物车+信用卡管理
  bin/atm.py 程序入口文件  
  core/login.py 登录模块  
  core/shop.py 购物模块  
