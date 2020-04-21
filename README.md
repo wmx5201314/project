@@ -6,5 +6,5 @@
  core/main.py 主程序  
  db/user.txt 用户数据  
  db/op_log.txt  操作日志  
- db/credit_card.txt 信用卡数据
+ db/credit_card.txt 信用卡数据  
  db/shopping_car/  用户购物车
