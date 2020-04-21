@@ -1,0 +1,5 @@
+2020-04-21 18:03:11 kahao:123456 初始化操作 quota:10000 used:0 shengyu:10000
+2020-04-21 18:03:11 注册成功 username:admin password:admin kahao:123456
+2020-04-21 18:03:14 登录成功 username:admin password:admin 
+2020-04-21 18:03:19 user:admin 购买操作 商品：烧饼 价格：5 shengyu:9995
+2020-04-21 18:03:29 user:admin 查询操作 kahao:123456 quota：10000 used：admin shengyu：9995
