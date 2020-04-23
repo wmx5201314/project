@@ -1,0 +1,1 @@
+{"username": "root", "passwd": "qwe", "cartnumber": "456", "quota": 10000, "used": 2200.0, "repay_lixi": 0, "withdraw_quota": 0.5, "withdraw_lixi": 0.05, "level": 1}

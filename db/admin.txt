@@ -1,0 +1,1 @@
+{"username": "admin", "passwd": "admin", "cartnumber": "123", "quota": 10000, "used": 1430.75, "repay_lixi": 0, "withdraw_quota": 0.5, "withdraw_lixi": 0.05, "level": 1}
